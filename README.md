@@ -1,4 +1,7 @@
 # SmartCar
+
+This project was done by Turgut Toprakcı (turgut.tprkc@gmail.com) and Emre Öztürk (emr.ozturk2000@gmail.com)
+
 A project for ELE417 Embedded System Design class for Hacettepe University
 
 
