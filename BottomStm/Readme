@@ -1,1 +1,4 @@
 
+BottomStm files include the codes for STM32F303RE that controls the motors.
+
+In the README.md file, a youtube video that explains what BottomStm and TopStm does is mentioned. Feel free to check the video.
