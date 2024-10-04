@@ -1,0 +1,3 @@
+TopStm files include the codes for STM32F303RE that is for communication, sensor data and display.
+
+In the README.md file, a youtube video that explains what BottomStm and TopStm does is mentioned. Feel free to check the video.
